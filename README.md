@@ -20,6 +20,11 @@ Authors: Tanmoy Dam, Mahardhika Pratama, MD Meftahul Ferdaus, Sreenatha Anavatti
 **Requirements** 
   - Pytorch 1.10.0
   - CUDA 11.4
+
+All the experiments were tested on a single NVIDIA RTX 3080 GPU with 16Gb memory. 
+
+**Benchmarks**
+1. **Prepare Data**
  
 
 
