@@ -18,8 +18,8 @@ baselines with noticeable margins in both accuracy and execution time.
 Authors: Tanmoy Dam, Mahardhika Pratama, MD Meftahul Ferdaus, Sreenatha Anavatti and Hussein Abbas
 
 **Requirements** 
-  -Item 1 Pytorch 1.10.0
-  -Item 2 CUDA 11.4
+  - Pytorch 1.10.0
+  - CUDA 11.4
  
 
 
